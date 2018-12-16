@@ -1,0 +1,167 @@
+[
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544939097853,
+            "changeTime": 1544939097853,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544939097854,
+            "changeTime": 1544939097854,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544939097855,
+            "changeTime": 1544939097855,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544939097859,
+            "changeTime": 1544939097859,
+            "contentHash": "aa0f8fca7e2c7ad67760495383381f2dba8c2960",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ChildWrapper.cls",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ChildWrapper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 519,
+            "modifiedTime": 1544939097856,
+            "changeTime": 1544939097856,
+            "contentHash": "166f8087f40257d5ddaf271427d89c3111a4aad6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ChildWrapper.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ChildWrapper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1544939097856,
+            "changeTime": 1544939097856,
+            "contentHash": "451fdfbc6ccf3b0f8e7f8332c8f73cf72916a83d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ComponentWrapperIntf.cls",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ComponentWrapperIntf.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 63,
+            "modifiedTime": 1544939097857,
+            "changeTime": 1544939097857,
+            "contentHash": "5ca0e3131e301ce0d6211a035e052ebd6b1477bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ComponentWrapperIntf.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ComponentWrapperIntf.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1544939097858,
+            "changeTime": 1544939097858,
+            "contentHash": "451fdfbc6ccf3b0f8e7f8332c8f73cf72916a83d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ParentWrapper.cls",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ParentWrapper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 811,
+            "modifiedTime": 1544939097859,
+            "changeTime": 1544939097859,
+            "contentHash": "b914e813d02ab60030b6c168734152ff902abe11",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ParentWrapper.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx\\force-app\\main\\default\\classes\\ParentWrapper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1544939097860,
+            "changeTime": 1544939097860,
+            "contentHash": "451fdfbc6ccf3b0f8e7f8332c8f73cf72916a83d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\SecondDxProject\\SalesforceDx",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DX POC\\SecondDxProject\\SalesforceDx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544939097861,
+            "changeTime": 1544939097861,
+            "contentHash": "f0104de975dc524ccedf07231c03fbca11880937",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

@@ -1,3 +1,4 @@
+//Changes from second scratch
 public with sharing class ChildWrapper implements ComponentWrapperIntf {
     public String name { get; set; }
     public String label { get; set; }
