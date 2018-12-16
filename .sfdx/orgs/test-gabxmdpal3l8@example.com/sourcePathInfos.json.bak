@@ -1,0 +1,182 @@
+[
+    [
+        "E:\\DX POC\\firstDxProject\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544936577782,
+            "changeTime": 1544936577782,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544936577891,
+            "changeTime": 1544936577891,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544936768957,
+            "changeTime": 1544936768957,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544936577892,
+            "changeTime": 1544936577892,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544936768972,
+            "changeTime": 1544936768972,
+            "contentHash": "aa0f8fca7e2c7ad67760495383381f2dba8c2960",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ChildWrapper.cls",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ChildWrapper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 506,
+            "modifiedTime": 1544936768962,
+            "changeTime": 1544936768962,
+            "contentHash": "676d9c468eceff280cddc8807138870f97be1a02",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ChildWrapper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ChildWrapper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1544936768959,
+            "changeTime": 1544936768959,
+            "contentHash": "05c18a0ab55f441b30bbc2451179237979dbf300",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ComponentWrapperIntf.cls",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ComponentWrapperIntf.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61,
+            "modifiedTime": 1544936768968,
+            "changeTime": 1544936768968,
+            "contentHash": "9f7ae70266a2855a8a822c1e910fd0aeca2851c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ComponentWrapperIntf.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ComponentWrapperIntf.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1544936768966,
+            "changeTime": 1544936768966,
+            "contentHash": "05c18a0ab55f441b30bbc2451179237979dbf300",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ParentWrapper.cls",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ParentWrapper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 787,
+            "modifiedTime": 1544936768972,
+            "changeTime": 1544936768972,
+            "contentHash": "e3ba93a94b45a059baeb06b62f32579d25660c40",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ParentWrapper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject\\force-app\\main\\default\\classes\\ParentWrapper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1544936768970,
+            "changeTime": 1544936768970,
+            "contentHash": "05c18a0ab55f441b30bbc2451179237979dbf300",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DX POC\\firstDxProject",
+        {
+            "state": "u",
+            "sourcePath": "E:\\DX POC\\firstDxProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544936646597,
+            "changeTime": 1544936646597,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
