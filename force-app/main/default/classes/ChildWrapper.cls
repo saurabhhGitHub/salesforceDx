@@ -1,4 +1,4 @@
-//Changes from second scratch
+//Changes from second scratch changes via VSC.
 public with sharing class ChildWrapper implements ComponentWrapperIntf {
     public String name { get; set; }
     public String label { get; set; }
